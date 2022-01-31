@@ -1,0 +1,8 @@
+# visual studio generated files
+*.vs/
+*.user
+*.suo
+
+# Project Directories
+Binaries
+Intermediate
