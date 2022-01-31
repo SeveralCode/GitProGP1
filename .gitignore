@@ -1,6 +1,8 @@
 # visual studio generated files
 *.vs/
 *.user
+*.vcxproj
+*.vcxproj.filters
 *.suo
 
 # Project Directories
